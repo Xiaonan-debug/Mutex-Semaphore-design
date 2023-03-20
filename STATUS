@@ -1,0 +1,19 @@
+# STATUS
+
+Xiao Chen: xcg3264
+Xiaonan Luo
+
+
+
+## Oct 16
+
+DOING: Implementation of mutex and semaphore
+TODO: Implementation for interrupts
+
+
+
+## Oct 21
+
+DONE: Implementation of semaphore (besides interrupts)
+DOING: Stack Smashing issue for mutex
+TODO: Implementation for interrupts
